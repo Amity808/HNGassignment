@@ -1,0 +1,11 @@
+.footer-section{
+    display: flex;
+    flex-direction: row;
+    gap: 7rem;
+    /* padding: 30px 15px 30px 15px; */
+    padding: 10px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
