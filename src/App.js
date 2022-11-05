@@ -13,7 +13,7 @@ function App() {
       content="Background Check for Coders"
       design="Design Books"
       />
-      <Footer />
+      
     </div>
   );
 }
