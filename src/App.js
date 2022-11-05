@@ -12,6 +12,7 @@ function App() {
       python="Python Book"
       content="Background Check for Coders"
       design="Design Books"
+      contact="Contact"
       />
       
     </div>
